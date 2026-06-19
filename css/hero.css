@@ -2,12 +2,13 @@
   background-color: var(--color-contrast-high);
 
   h1 {
-    color: #fff;
+    color: var(--color-surface-primary);
     text-align: center;
   }
 
   button {
-    color: #fff;
+    cursor: pointer;
+    color: var(--color-surface-primary);
     background-color: var(--color-brand-default);
 
     font-weight: 500;

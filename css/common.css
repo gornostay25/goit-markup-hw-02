@@ -23,7 +23,6 @@
 
 body {
   font-family: var(--font-family);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -42,12 +41,14 @@ h2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
+  color: var(--color-contrast-high);
 }
 
 h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  color: var(--color-contrast-high);
 }
 
 ul {
@@ -58,9 +59,9 @@ ul {
   text-decoration: none;
   font-family: var(--font-family-logo);
   color: inherit;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   span {

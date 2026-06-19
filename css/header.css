@@ -12,13 +12,6 @@
       &:focus {
         color: var(--color-brand-pressed);
       }
-      /* 
-        &.active,
-        &:active {
-          color: var(--color-brand-pressed);
-          border???
-        } 
-      */
     }
   }
 
