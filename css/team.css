@@ -1,0 +1,19 @@
+#team {
+  background-color: var(--color-surface-default);
+
+  h2 {
+    text-align: center;
+  }
+
+  li {
+    background-color: var(--color-surface-primary);
+
+    h3 {
+      text-align: center;
+    }
+    
+    p {
+      text-align: center;
+    }
+  }
+}

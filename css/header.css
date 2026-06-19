@@ -1,0 +1,36 @@
+#header {
+  color: var(--color-contrast-high);
+
+  nav {
+    font-weight: 500;
+
+    a {
+      color: var(--color-contrast-high);
+      text-decoration: none;
+
+      &:hover,
+      &:focus {
+        color: var(--color-brand-pressed);
+      }
+      /* 
+        &.active,
+        &:active {
+          color: var(--color-brand-pressed);
+          border???
+        } 
+      */
+    }
+  }
+
+  address {
+    a {
+      color: var(--color-text-primary);
+      text-decoration: none;
+
+      &:hover,
+      &:focus {
+        color: var(--color-brand-pressed);
+      }
+    }
+  }
+}
