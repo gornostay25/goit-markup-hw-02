@@ -64,7 +64,8 @@ ul {
   line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  span {
-    color: var(--color-brand-default);
-  }
+}
+
+.logo-accent {
+  color: var(--color-brand-default);
 }
